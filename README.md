@@ -22,6 +22,6 @@
 6.Table Widget
 7.Horizontal Scroll Bar
 8.Progress Bar
-9.Date Time Edit
+9.Date/Time Edit
 10.Horizontal Slider
 11.Dial
