@@ -1,7 +1,7 @@
 # Desain-Layout-menggunakan-QT-Designer
 ## 1. Membuat Design Layout Calendar Widget
 <img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/main/Calendar_Widget.png">
-##Pada design layout Calendar Widget menggunakan :
+## Pada design layout Calendar Widget menggunakan :
 1. Dock Widget
 2. Group Box
 3. Calendar Widget
@@ -11,7 +11,7 @@
 
 ## 2. Membuat Design Layout Styles
 <img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/main/Styles.png">
-##Pada design layout Styles menggunakan :
+## Pada design layout Styles menggunakan :
 1.Dock Widget
 2.Check Box
 3.Radio Button
