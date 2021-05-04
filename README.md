@@ -1,27 +1,15 @@
-# Desain-Layout-menggunakan-QT-Designer
-## 1. Membuat Design Layout Calendar Widget
-<img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/main/Calendar_Widget.png">
+# Membuat Layout Data Mahasiswa
 
-## Pada design layout Calendar Widget menggunakan :
-1. Dock Widget
-2. Group Box
-3. Calendar Widget
-4. Label
-5. Date Edit
-6. Combo Box
+Nama  : Rachma Wukir Purwitasari
 
-## 2. Membuat Design Layout Styles
-<img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/main/Styles.png">
+NIM   : 19104065
 
-## Pada design layout Styles menggunakan :
-1. Dock Widget
-2. Check Box
-3. Radio Button
-4. Push Button
-5. Tab Widget
-6. Table Widget
-7. Horizontal Scroll Bar
-8. Progress Bar
-9. Date/Time Edit
-10. Horizontal Slider
-11. Dial
+Kelas : S1 SE 03 B
+
+<img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/Tugas2-GUI-Teori/Tugas2/DataMahasiswa.png">
+
+## Pada design layout Data Mahasiswa menggunakan :
+1. Label digunakan untuk membuat text Data Mahasiswa, NIM, Nama, Jurusan, dan No.Telp.
+2. Text Edit digunakan untuk menampilkan output Data Mahasiswa.
+3. Line Edit digunakan untuk menginput sebuah Data Mahasiswa.
+4. Push Button digunakan untuk membuat tombol Tambah, Edit, Clear, Hapus.
