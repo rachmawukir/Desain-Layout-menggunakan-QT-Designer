@@ -1,7 +1,9 @@
 # Membuat Layout Data Mahasiswa
 
 Nama  : Rachma Wukir Purwitasari
+
 NIM   : 19104065
+
 Kelas : S1 SE 03 B
 
 <img src = "https://github.com/rachmawukir/Desain-Layout-menggunakan-QT-Designer/blob/Tugas2-GUI-Teori/Tugas2/DataMahasiswa.png">
